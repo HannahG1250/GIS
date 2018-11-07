@@ -1,5 +1,5 @@
 ---
-title: "Assesment 1: Map Comparison"
+title: "Assessment 1: Map Comparison"
 output:
   html_notebook: default
   pdf_document: default
