@@ -6,9 +6,11 @@ output:
 ---
 It is often thought that affluent neighbourhoods contain higher-ranking schools (Deluca and Rosenblatt, 2010). Two maps have been produced outlining Median House price by ward and Secondary School Ofsted ratings for London.  
 
-###### Figure 1 Map created using ArcGIS: ![](Assessment_1/HousePricevsOfstead.jpg)  
+###### Figure 1 Map created using ArcGIS:
+![](Assessment_1/HousePricevsOfstead.jpg)  
 
-###### Figure 2 Map created using R: ![](Assessment_1/Final_Map.jpg)
+###### Figure 2 Map created using R:
+![](Assessment_1/Final_Map.jpg)
 
 ## Assessment of Data Sources  
 *House Prices by ward*  
@@ -25,7 +27,7 @@ Figure 2: ![](Assessment_1/HousePricevsOfstead.jpg)
 
 ArcGIS requires more steps to set up the working environment and prepare the data sources for use. For ArcGIS initial data manipulation had to be undertaken in Excel this included the removal of unusable characters and selecting the relevant year of data. Whereas, in R the data was cleaned and manipulated using the tidyverse package, an example being the use of Grep to select the correct year of data. R allows for greater transparency of data cleaning and manipulation, which is key for reproducible research. 
 
-```{r}
+```{r eval=FALSE}
 library(tmap)
 library(tmaptools)
 library(OpenStreetMap)
@@ -70,7 +72,7 @@ WardDataMap <- append_data(WardMapSF,HousePriceClean, key.shp = "GSS_CODE", key.
 
 ArcGIS gives the user greater control of the final output. In R the plot drawn by the studio is only indicative and therefore not representative of what it looks like when exported.
 
-```{r}
+```{r eval=FALSE}
 #load Background
 london_osm <- read_osm(WardDataMap, type = "esri", zoom = NULL)
 
