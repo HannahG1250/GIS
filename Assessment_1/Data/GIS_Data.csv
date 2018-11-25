@@ -1,0 +1,631 @@
+Code,Ward_name,Borough,Year,Measure,Value
+E09000001,City of London,City of London,Year ending Dec 2016,Median,
+E05000026,Abbey,Barking and Dagenham,Year ending Dec 2016,Median,230000
+E05000027,Alibon,Barking and Dagenham,Year ending Dec 2016,Median,290000
+E05000028,Becontree,Barking and Dagenham,Year ending Dec 2016,Median,290000
+E05000029,Chadwell Heath,Barking and Dagenham,Year ending Dec 2016,Median,297850
+E05000030,Eastbrook,Barking and Dagenham,Year ending Dec 2016,Median,325000
+E05000031,Eastbury,Barking and Dagenham,Year ending Dec 2016,Median,285000
+E05000032,Gascoigne,Barking and Dagenham,Year ending Dec 2016,Median,248000
+E05000033,Goresbrook,Barking and Dagenham,Year ending Dec 2016,Median,290000
+E05000034,Heath,Barking and Dagenham,Year ending Dec 2016,Median,287500
+E05000035,Longbridge,Barking and Dagenham,Year ending Dec 2016,Median,425000
+E05000036,Mayesbrook,Barking and Dagenham,Year ending Dec 2016,Median,290000
+E05000037,Parsloes,Barking and Dagenham,Year ending Dec 2016,Median,290000
+E05000038,River,Barking and Dagenham,Year ending Dec 2016,Median,280000
+E05000039,Thames,Barking and Dagenham,Year ending Dec 2016,Median,210000
+E05000040,Valence,Barking and Dagenham,Year ending Dec 2016,Median,292500
+E05000041,Village,Barking and Dagenham,Year ending Dec 2016,Median,270500
+E05000042,Whalebone,Barking and Dagenham,Year ending Dec 2016,Median,330000
+E05000043,Brunswick Park,Barnet,Year ending Dec 2016,Median,550000
+E05000044,Burnt Oak,Barnet,Year ending Dec 2016,Median,340000
+E05000045,Childs Hill,Barnet,Year ending Dec 2016,Median,540000
+E05000046,Colindale,Barnet,Year ending Dec 2016,Median,380000
+E05000047,Coppetts,Barnet,Year ending Dec 2016,Median,530000
+E05000048,East Barnet,Barnet,Year ending Dec 2016,Median,475000
+E05000049,East Finchley,Barnet,Year ending Dec 2016,Median,482500
+E05000050,Edgware,Barnet,Year ending Dec 2016,Median,388750
+E05000051,Finchley Church End,Barnet,Year ending Dec 2016,Median,536500
+E05000052,Garden Suburb,Barnet,Year ending Dec 2016,Median,847500
+E05000053,Golders Green,Barnet,Year ending Dec 2016,Median,560000
+E05000054,Hale,Barnet,Year ending Dec 2016,Median,530000
+E05000055,Hendon,Barnet,Year ending Dec 2016,Median,450000
+E05000056,High Barnet,Barnet,Year ending Dec 2016,Median,477450
+E05000057,Mill Hill,Barnet,Year ending Dec 2016,Median,575000
+E05000058,Oakleigh,Barnet,Year ending Dec 2016,Median,550000
+E05000059,Totteridge,Barnet,Year ending Dec 2016,Median,507500
+E05000060,Underhill,Barnet,Year ending Dec 2016,Median,555000
+E05000061,West Finchley,Barnet,Year ending Dec 2016,Median,535500
+E05000062,West Hendon,Barnet,Year ending Dec 2016,Median,471500
+E05000063,Woodhouse,Barnet,Year ending Dec 2016,Median,501750
+E05000064,Barnehurst,Bexley,Year ending Dec 2016,Median,340000
+E05000065,Belvedere,Bexley,Year ending Dec 2016,Median,260000
+E05000066,Blackfen and Lamorbey,Bexley,Year ending Dec 2016,Median,364250
+E05000067,Blendon and Penhill,Bexley,Year ending Dec 2016,Median,342000
+E05000068,Brampton,Bexley,Year ending Dec 2016,Median,420000
+E05000069,Christchurch,Bexley,Year ending Dec 2016,Median,340000
+E05000070,Colyers,Bexley,Year ending Dec 2016,Median,303500
+E05000071,Crayford,Bexley,Year ending Dec 2016,Median,269000
+E05000072,Cray Meadows,Bexley,Year ending Dec 2016,Median,365000
+E05000073,Danson Park,Bexley,Year ending Dec 2016,Median,335000
+E05000074,East Wickham,Bexley,Year ending Dec 2016,Median,380000
+E05000075,Erith,Bexley,Year ending Dec 2016,Median,256995
+E05000076,Falconwood and Welling,Bexley,Year ending Dec 2016,Median,350000
+E05000077,Lesnes Abbey,Bexley,Year ending Dec 2016,Median,360750
+E05000078,Longlands,Bexley,Year ending Dec 2016,Median,308000
+E05000079,North End,Bexley,Year ending Dec 2016,Median,268000
+E05000080,Northumberland Heath,Bexley,Year ending Dec 2016,Median,350000
+E05000081,St Mary's,Bexley,Year ending Dec 2016,Median,397500
+E05000082,St Michael's,Bexley,Year ending Dec 2016,Median,370000
+E05000083,Sidcup,Bexley,Year ending Dec 2016,Median,342975
+E05000084,Thamesmead East,Bexley,Year ending Dec 2016,Median,240000
+E05000085,Alperton,Brent,Year ending Dec 2016,Median,400000
+E05000086,Barnhill,Brent,Year ending Dec 2016,Median,375000
+E05000087,Brondesbury Park,Brent,Year ending Dec 2016,Median,669000
+E05000088,Dollis Hill,Brent,Year ending Dec 2016,Median,425000
+E05000089,Dudden Hill,Brent,Year ending Dec 2016,Median,550000
+E05000090,Fryent,Brent,Year ending Dec 2016,Median,488000
+E05000091,Harlesden,Brent,Year ending Dec 2016,Median,389000
+E05000092,Kensal Green,Brent,Year ending Dec 2016,Median,580000
+E05000093,Kenton,Brent,Year ending Dec 2016,Median,575000
+E05000094,Kilburn,Brent,Year ending Dec 2016,Median,585000
+E05000095,Mapesbury,Brent,Year ending Dec 2016,Median,551500
+E05000096,Northwick Park,Brent,Year ending Dec 2016,Median,571750
+E05000097,Preston,Brent,Year ending Dec 2016,Median,510000
+E05000098,Queens Park,Brent,Year ending Dec 2016,Median,721250
+E05000099,Queensbury,Brent,Year ending Dec 2016,Median,320000
+E05000100,Stonebridge,Brent,Year ending Dec 2016,Median,370000
+E05000101,Sudbury,Brent,Year ending Dec 2016,Median,335000
+E05000102,Tokyngton,Brent,Year ending Dec 2016,Median,368500
+E05000103,Welsh Harp,Brent,Year ending Dec 2016,Median,341600
+E05000104,Wembley Central,Brent,Year ending Dec 2016,Median,325000
+E05000105,Willesden Green,Brent,Year ending Dec 2016,Median,450000
+E05000106,Bickley,Bromley,Year ending Dec 2016,Median,540000
+E05000107,Biggin Hill,Bromley,Year ending Dec 2016,Median,351000
+E05000108,Bromley Common and Keston,Bromley,Year ending Dec 2016,Median,417000
+E05000109,Bromley Town,Bromley,Year ending Dec 2016,Median,371750
+E05000110,Chelsfield and Pratts Bottom,Bromley,Year ending Dec 2016,Median,450000
+E05000111,Chislehurst,Bromley,Year ending Dec 2016,Median,500000
+E05000112,Clock House,Bromley,Year ending Dec 2016,Median,408000
+E05000113,Copers Cope,Bromley,Year ending Dec 2016,Median,369998
+E05000114,Cray Valley East,Bromley,Year ending Dec 2016,Median,305000
+E05000115,Cray Valley West,Bromley,Year ending Dec 2016,Median,340000
+E05000116,Crystal Palace,Bromley,Year ending Dec 2016,Median,353000
+E05000117,Darwin,Bromley,Year ending Dec 2016,Median,494975
+E05000118,Farnborough and Crofton,Bromley,Year ending Dec 2016,Median,476000
+E05000119,Hayes and Coney Hall,Bromley,Year ending Dec 2016,Median,550000
+E05000120,Kelsey and Eden Park,Bromley,Year ending Dec 2016,Median,527500
+E05000121,Mottingham and Chislehurst North,Bromley,Year ending Dec 2016,Median,325000
+E05000122,Orpington,Bromley,Year ending Dec 2016,Median,400000
+E05000123,Penge and Cator,Bromley,Year ending Dec 2016,Median,400000
+E05000124,Petts Wood and Knoll,Bromley,Year ending Dec 2016,Median,585500
+E05000125,Plaistow and Sundridge,Bromley,Year ending Dec 2016,Median,405000
+E05000126,Shortlands,Bromley,Year ending Dec 2016,Median,515000
+E05000127,West Wickham,Bromley,Year ending Dec 2016,Median,500000
+E05000128,Belsize,Camden,Year ending Dec 2016,Median,925000
+E05000129,Bloomsbury,Camden,Year ending Dec 2016,Median,665000
+E05000130,Camden Town with Primrose Hill,Camden,Year ending Dec 2016,Median,865000
+E05000131,Cantelowes,Camden,Year ending Dec 2016,Median,541250
+E05000132,Fortune Green,Camden,Year ending Dec 2016,Median,690000
+E05000133,Frognal and Fitzjohns,Camden,Year ending Dec 2016,Median,1320000
+E05000134,Gospel Oak,Camden,Year ending Dec 2016,Median,727250
+E05000135,Hampstead Town,Camden,Year ending Dec 2016,Median,1205000
+E05000136,Haverstock,Camden,Year ending Dec 2016,Median,617500
+E05000137,Highgate,Camden,Year ending Dec 2016,Median,795000
+E05000138,Holborn and Covent Garden,Camden,Year ending Dec 2016,Median,775000
+E05000139,Kentish Town,Camden,Year ending Dec 2016,Median,650000
+E05000140,Kilburn,Camden,Year ending Dec 2016,Median,522000
+E05000141,King's Cross,Camden,Year ending Dec 2016,Median,560000
+E05000142,Regent's Park,Camden,Year ending Dec 2016,Median,620000
+E05000143,St Pancras and Somers Town,Camden,Year ending Dec 2016,Median,745000
+E05000144,Swiss Cottage,Camden,Year ending Dec 2016,Median,747500
+E05000145,West Hampstead,Camden,Year ending Dec 2016,Median,730000
+E05000146,Addiscombe,Croydon,Year ending Dec 2016,Median,345000
+E05000147,Ashburton,Croydon,Year ending Dec 2016,Median,414500
+E05000148,Bensham Manor,Croydon,Year ending Dec 2016,Median,307000
+E05000149,Broad Green,Croydon,Year ending Dec 2016,Median,302000
+E05000150,Coulsdon East,Croydon,Year ending Dec 2016,Median,447000
+E05000151,Coulsdon West,Croydon,Year ending Dec 2016,Median,499995
+E05000152,Croham,Croydon,Year ending Dec 2016,Median,325000
+E05000153,Fairfield,Croydon,Year ending Dec 2016,Median,292000
+E05000154,Fieldway,Croydon,Year ending Dec 2016,Median,285000
+E05000155,Heathfield,Croydon,Year ending Dec 2016,Median,307500
+E05000156,Kenley,Croydon,Year ending Dec 2016,Median,418000
+E05000157,New Addington,Croydon,Year ending Dec 2016,Median,307500
+E05000158,Norbury,Croydon,Year ending Dec 2016,Median,462475
+E05000159,Purley,Croydon,Year ending Dec 2016,Median,405000
+E05000160,Sanderstead,Croydon,Year ending Dec 2016,Median,500000
+E05000161,Selhurst,Croydon,Year ending Dec 2016,Median,289975
+E05000162,Selsdon and Ballards,Croydon,Year ending Dec 2016,Median,410000
+E05000163,Shirley,Croydon,Year ending Dec 2016,Median,375000
+E05000164,South Norwood,Croydon,Year ending Dec 2016,Median,316000
+E05000165,Thornton Heath,Croydon,Year ending Dec 2016,Median,305000
+E05000166,Upper Norwood,Croydon,Year ending Dec 2016,Median,394000
+E05000167,Waddon,Croydon,Year ending Dec 2016,Median,310000
+E05000168,West Thornton,Croydon,Year ending Dec 2016,Median,310500
+E05000169,Woodside,Croydon,Year ending Dec 2016,Median,334000
+E05000170,Acton Central,Ealing,Year ending Dec 2016,Median,595000
+E05000171,Cleveland,Ealing,Year ending Dec 2016,Median,610000
+E05000172,Dormers Wells,Ealing,Year ending Dec 2016,Median,317500
+E05000173,Ealing Broadway,Ealing,Year ending Dec 2016,Median,542500
+E05000174,Ealing Common,Ealing,Year ending Dec 2016,Median,625000
+E05000175,East Acton,Ealing,Year ending Dec 2016,Median,407500
+E05000176,Elthorne,Ealing,Year ending Dec 2016,Median,555000
+E05000177,Greenford Broadway,Ealing,Year ending Dec 2016,Median,297000
+E05000178,Greenford Green,Ealing,Year ending Dec 2016,Median,402500
+E05000179,Hanger Hill,Ealing,Year ending Dec 2016,Median,585500
+E05000180,Hobbayne,Ealing,Year ending Dec 2016,Median,477500
+E05000181,Lady Margaret,Ealing,Year ending Dec 2016,Median,388000
+E05000182,Northfield,Ealing,Year ending Dec 2016,Median,722000
+E05000183,North Greenford,Ealing,Year ending Dec 2016,Median,398000
+E05000184,Northolt Mandeville,Ealing,Year ending Dec 2016,Median,365000
+E05000185,Northolt West End,Ealing,Year ending Dec 2016,Median,315000
+E05000186,Norwood Green,Ealing,Year ending Dec 2016,Median,357500
+E05000187,Perivale,Ealing,Year ending Dec 2016,Median,443000
+E05000188,South Acton,Ealing,Year ending Dec 2016,Median,545000
+E05000189,Southall Broadway,Ealing,Year ending Dec 2016,Median,300000
+E05000190,Southall Green,Ealing,Year ending Dec 2016,Median,227500
+E05000191,Southfield,Ealing,Year ending Dec 2016,Median,675000
+E05000192,Walpole,Ealing,Year ending Dec 2016,Median,672500
+E05000193,Bowes,Enfield,Year ending Dec 2016,Median,450000
+E05000194,Bush Hill Park,Enfield,Year ending Dec 2016,Median,437500
+E05000195,Chase,Enfield,Year ending Dec 2016,Median,406000
+E05000196,Cockfosters,Enfield,Year ending Dec 2016,Median,622000
+E05000197,Edmonton Green,Enfield,Year ending Dec 2016,Median,295500
+E05000198,Enfield Highway,Enfield,Year ending Dec 2016,Median,347500
+E05000199,Enfield Lock,Enfield,Year ending Dec 2016,Median,312000
+E05000200,Grange,Enfield,Year ending Dec 2016,Median,445000
+E05000201,Haselbury,Enfield,Year ending Dec 2016,Median,345000
+E05000202,Highlands,Enfield,Year ending Dec 2016,Median,425000
+E05000203,Jubilee,Enfield,Year ending Dec 2016,Median,339750
+E05000204,Lower Edmonton,Enfield,Year ending Dec 2016,Median,337000
+E05000205,Palmers Green,Enfield,Year ending Dec 2016,Median,490000
+E05000206,Ponders End,Enfield,Year ending Dec 2016,Median,335000
+E05000207,Southbury,Enfield,Year ending Dec 2016,Median,359995
+E05000208,Southgate,Enfield,Year ending Dec 2016,Median,464500
+E05000209,Southgate Green,Enfield,Year ending Dec 2016,Median,592500
+E05000210,Town,Enfield,Year ending Dec 2016,Median,450000
+E05000211,Turkey Street,Enfield,Year ending Dec 2016,Median,336000
+E05000212,Upper Edmonton,Enfield,Year ending Dec 2016,Median,340000
+E05000213,Winchmore Hill,Enfield,Year ending Dec 2016,Median,558000
+E05000214,Abbey Wood,Greenwich,Year ending Dec 2016,Median,340000
+E05000215,Blackheath Westcombe,Greenwich,Year ending Dec 2016,Median,506500
+E05000216,Charlton,Greenwich,Year ending Dec 2016,Median,478000
+E05000217,Coldharbour and New Eltham,Greenwich,Year ending Dec 2016,Median,433000
+E05000218,Eltham North,Greenwich,Year ending Dec 2016,Median,445000
+E05000219,Eltham South,Greenwich,Year ending Dec 2016,Median,350000
+E05000220,Eltham West,Greenwich,Year ending Dec 2016,Median,465000
+E05000221,Glyndon,Greenwich,Year ending Dec 2016,Median,298250
+E05000222,Greenwich West,Greenwich,Year ending Dec 2016,Median,510000
+E05000223,Kidbrooke with Hornfair,Greenwich,Year ending Dec 2016,Median,355000
+E05000224,Middle Park and Sutcliffe,Greenwich,Year ending Dec 2016,Median,365000
+E05000225,Peninsula,Greenwich,Year ending Dec 2016,Median,475000
+E05000226,Plumstead,Greenwich,Year ending Dec 2016,Median,320000
+E05000227,Shooters Hill,Greenwich,Year ending Dec 2016,Median,345000
+E05000228,Thamesmead Moorings,Greenwich,Year ending Dec 2016,Median,259000
+E05000229,Woolwich Common,Greenwich,Year ending Dec 2016,Median,330000
+E05000230,Woolwich Riverside,Greenwich,Year ending Dec 2016,Median,357500
+E05009367,Brownswood,Hackney,Year ending Dec 2016,Median,550000
+E05009368,Cazenove,Hackney,Year ending Dec 2016,Median,426750
+E05009369,Clissold,Hackney,Year ending Dec 2016,Median,545000
+E05009370,Dalston,Hackney,Year ending Dec 2016,Median,501600
+E05009371,De Beauvoir,Hackney,Year ending Dec 2016,Median,660000
+E05009372,Hackney Central,Hackney,Year ending Dec 2016,Median,455000
+E05009373,Hackney Downs,Hackney,Year ending Dec 2016,Median,480000
+E05009374,Hackney Wick,Hackney,Year ending Dec 2016,Median,450000
+E05009375,Haggerston,Hackney,Year ending Dec 2016,Median,489000
+E05009376,Homerton,Hackney,Year ending Dec 2016,Median,405000
+E05009377,Hoxton East and Shoreditch,Hackney,Year ending Dec 2016,Median,535000
+E05009378,Hoxton West,Hackney,Year ending Dec 2016,Median,689000
+E05009379,King's Park,Hackney,Year ending Dec 2016,Median,475000
+E05009380,Lea Bridge,Hackney,Year ending Dec 2016,Median,425000
+E05009381,London Fields,Hackney,Year ending Dec 2016,Median,631250
+E05009382,Shacklewell,Hackney,Year ending Dec 2016,Median,520000
+E05009383,Springfield,Hackney,Year ending Dec 2016,Median,372500
+E05009384,Stamford Hill West,Hackney,Year ending Dec 2016,Median,524500
+E05009385,Stoke Newington,Hackney,Year ending Dec 2016,Median,567500
+E05009386,Victoria,Hackney,Year ending Dec 2016,Median,550000
+E05009387,Woodberry Down,Hackney,Year ending Dec 2016,Median,546110
+E05000250,Addison,Hammersmith and Fulham,Year ending Dec 2016,Median,653000
+E05000251,Askew,Hammersmith and Fulham,Year ending Dec 2016,Median,550000
+E05000252,Avonmore and Brook Green,Hammersmith and Fulham,Year ending Dec 2016,Median,637500
+E05000253,College Park and Old Oak,Hammersmith and Fulham,Year ending Dec 2016,Median,562500
+E05000254,Fulham Broadway,Hammersmith and Fulham,Year ending Dec 2016,Median,821000
+E05000255,Fulham Reach,Hammersmith and Fulham,Year ending Dec 2016,Median,757500
+E05000256,Hammersmith Broadway,Hammersmith and Fulham,Year ending Dec 2016,Median,600000
+E05000257,Munster,Hammersmith and Fulham,Year ending Dec 2016,Median,787500
+E05000258,North End,Hammersmith and Fulham,Year ending Dec 2016,Median,584000
+E05000259,Palace Riverside,Hammersmith and Fulham,Year ending Dec 2016,Median,975000
+E05000260,Parsons Green and Walham,Hammersmith and Fulham,Year ending Dec 2016,Median,997500
+E05000261,Ravenscourt Park,Hammersmith and Fulham,Year ending Dec 2016,Median,667999
+E05000262,Sands End,Hammersmith and Fulham,Year ending Dec 2016,Median,880000
+E05000263,Shepherd's Bush Green,Hammersmith and Fulham,Year ending Dec 2016,Median,590000
+E05000264,Town,Hammersmith and Fulham,Year ending Dec 2016,Median,830000
+E05000265,Wormholt and White City,Hammersmith and Fulham,Year ending Dec 2016,Median,600000
+E05000266,Alexandra,Haringey,Year ending Dec 2016,Median,680000
+E05000267,Bounds Green,Haringey,Year ending Dec 2016,Median,390000
+E05000268,Bruce Grove,Haringey,Year ending Dec 2016,Median,390000
+E05000269,Crouch End,Haringey,Year ending Dec 2016,Median,625000
+E05000270,Fortis Green,Haringey,Year ending Dec 2016,Median,590000
+E05000271,Harringay,Haringey,Year ending Dec 2016,Median,501679
+E05000272,Highgate,Haringey,Year ending Dec 2016,Median,752500
+E05000273,Hornsey,Haringey,Year ending Dec 2016,Median,519975
+E05000274,Muswell Hill,Haringey,Year ending Dec 2016,Median,851000
+E05000275,Noel Park,Haringey,Year ending Dec 2016,Median,456000
+E05000276,Northumberland Park,Haringey,Year ending Dec 2016,Median,234375
+E05000277,St Ann's,Haringey,Year ending Dec 2016,Median,432500
+E05000278,Seven Sisters,Haringey,Year ending Dec 2016,Median,454250
+E05000279,Stroud Green,Haringey,Year ending Dec 2016,Median,549975
+E05000280,Tottenham Green,Haringey,Year ending Dec 2016,Median,377495
+E05000281,Tottenham Hale,Haringey,Year ending Dec 2016,Median,353000
+E05000282,West Green,Haringey,Year ending Dec 2016,Median,405000
+E05000283,White Hart Lane,Haringey,Year ending Dec 2016,Median,367500
+E05000284,Woodside,Haringey,Year ending Dec 2016,Median,430000
+E05000285,Belmont,Harrow,Year ending Dec 2016,Median,575000
+E05000286,Canons,Harrow,Year ending Dec 2016,Median,507500
+E05000287,Edgware,Harrow,Year ending Dec 2016,Median,360000
+E05000288,Greenhill,Harrow,Year ending Dec 2016,Median,345000
+E05000289,Harrow on the Hill,Harrow,Year ending Dec 2016,Median,463750
+E05000290,Harrow Weald,Harrow,Year ending Dec 2016,Median,477500
+E05000291,Hatch End,Harrow,Year ending Dec 2016,Median,645000
+E05000292,Headstone North,Harrow,Year ending Dec 2016,Median,576500
+E05000293,Headstone South,Harrow,Year ending Dec 2016,Median,415000
+E05000294,Kenton East,Harrow,Year ending Dec 2016,Median,461000
+E05000295,Kenton West,Harrow,Year ending Dec 2016,Median,550000
+E05000296,Marlborough,Harrow,Year ending Dec 2016,Median,398000
+E05000297,Pinner,Harrow,Year ending Dec 2016,Median,498500
+E05000298,Pinner South,Harrow,Year ending Dec 2016,Median,630000
+E05000299,Queensbury,Harrow,Year ending Dec 2016,Median,470000
+E05000300,Rayners Lane,Harrow,Year ending Dec 2016,Median,479000
+E05000301,Roxbourne,Harrow,Year ending Dec 2016,Median,370000
+E05000302,Roxeth,Harrow,Year ending Dec 2016,Median,409995
+E05000303,Stanmore Park,Harrow,Year ending Dec 2016,Median,557500
+E05000304,Wealdstone,Harrow,Year ending Dec 2016,Median,360000
+E05000305,West Harrow,Harrow,Year ending Dec 2016,Median,515000
+E05000306,Brooklands,Havering,Year ending Dec 2016,Median,281000
+E05000307,Cranham,Havering,Year ending Dec 2016,Median,412000
+E05000308,Elm Park,Havering,Year ending Dec 2016,Median,331000
+E05000309,Emerson Park,Havering,Year ending Dec 2016,Median,426250
+E05000310,Gooshays,Havering,Year ending Dec 2016,Median,300500
+E05000311,Hacton,Havering,Year ending Dec 2016,Median,390000
+E05000312,Harold Wood,Havering,Year ending Dec 2016,Median,350000
+E05000313,Havering Park,Havering,Year ending Dec 2016,Median,337000
+E05000314,Heaton,Havering,Year ending Dec 2016,Median,295000
+E05000315,Hylands,Havering,Year ending Dec 2016,Median,375000
+E05000316,Mawneys,Havering,Year ending Dec 2016,Median,326000
+E05000317,Pettits,Havering,Year ending Dec 2016,Median,400000
+E05000318,Rainham and Wennington,Havering,Year ending Dec 2016,Median,306500
+E05000319,Romford Town,Havering,Year ending Dec 2016,Median,270000
+E05000320,St Andrew's,Havering,Year ending Dec 2016,Median,347500
+E05000321,South Hornchurch,Havering,Year ending Dec 2016,Median,311000
+E05000322,Squirrel's Heath,Havering,Year ending Dec 2016,Median,346500
+E05000323,Upminster,Havering,Year ending Dec 2016,Median,540000
+E05000324,Barnhill,Hillingdon,Year ending Dec 2016,Median,345000
+E05000325,Botwell,Hillingdon,Year ending Dec 2016,Median,267500
+E05000326,Brunel,Hillingdon,Year ending Dec 2016,Median,370000
+E05000327,Cavendish,Hillingdon,Year ending Dec 2016,Median,475000
+E05000328,Charville,Hillingdon,Year ending Dec 2016,Median,381500
+E05000329,Eastcote and East Ruislip,Hillingdon,Year ending Dec 2016,Median,575000
+E05000330,Harefield,Hillingdon,Year ending Dec 2016,Median,400000
+E05000331,Heathrow Villages,Hillingdon,Year ending Dec 2016,Median,275000
+E05000332,Hillingdon East,Hillingdon,Year ending Dec 2016,Median,405000
+E05000333,Ickenham,Hillingdon,Year ending Dec 2016,Median,610000
+E05000334,Manor,Hillingdon,Year ending Dec 2016,Median,458500
+E05000335,Northwood,Hillingdon,Year ending Dec 2016,Median,650000
+E05000336,Northwood Hills,Hillingdon,Year ending Dec 2016,Median,530000
+E05000337,Pinkwell,Hillingdon,Year ending Dec 2016,Median,380000
+E05000338,South Ruislip,Hillingdon,Year ending Dec 2016,Median,445000
+E05000339,Townfield,Hillingdon,Year ending Dec 2016,Median,350000
+E05000340,Uxbridge North,Hillingdon,Year ending Dec 2016,Median,499950
+E05000341,Uxbridge South,Hillingdon,Year ending Dec 2016,Median,375500
+E05000342,West Drayton,Hillingdon,Year ending Dec 2016,Median,380000
+E05000343,West Ruislip,Hillingdon,Year ending Dec 2016,Median,461750
+E05000344,Yeading,Hillingdon,Year ending Dec 2016,Median,335000
+E05000345,Yiewsley,Hillingdon,Year ending Dec 2016,Median,310000
+E05000346,Bedfont,Hounslow,Year ending Dec 2016,Median,300000
+E05000347,Brentford,Hounslow,Year ending Dec 2016,Median,500000
+E05000348,Chiswick Homefields,Hounslow,Year ending Dec 2016,Median,787500
+E05000349,Chiswick Riverside,Hounslow,Year ending Dec 2016,Median,590000
+E05000350,Cranford,Hounslow,Year ending Dec 2016,Median,380000
+E05000351,Feltham North,Hounslow,Year ending Dec 2016,Median,350500
+E05000352,Feltham West,Hounslow,Year ending Dec 2016,Median,294500
+E05000353,Hanworth,Hounslow,Year ending Dec 2016,Median,320000
+E05000354,Hanworth Park,Hounslow,Year ending Dec 2016,Median,315000
+E05000355,Heston Central,Hounslow,Year ending Dec 2016,Median,352500
+E05000356,Heston East,Hounslow,Year ending Dec 2016,Median,360000
+E05000357,Heston West,Hounslow,Year ending Dec 2016,Median,350000
+E05000358,Hounslow Central,Hounslow,Year ending Dec 2016,Median,250000
+E05000359,Hounslow Heath,Hounslow,Year ending Dec 2016,Median,332500
+E05000360,Hounslow South,Hounslow,Year ending Dec 2016,Median,459000
+E05000361,Hounslow West,Hounslow,Year ending Dec 2016,Median,365000
+E05000362,Isleworth,Hounslow,Year ending Dec 2016,Median,398000
+E05000363,Osterley and Spring Grove,Hounslow,Year ending Dec 2016,Median,397475
+E05000364,Syon,Hounslow,Year ending Dec 2016,Median,405000
+E05000365,Turnham Green,Hounslow,Year ending Dec 2016,Median,675000
+E05000366,Barnsbury,Islington,Year ending Dec 2016,Median,800000
+E05000367,Bunhill,Islington,Year ending Dec 2016,Median,720000
+E05000368,Caledonian,Islington,Year ending Dec 2016,Median,567500
+E05000369,Canonbury,Islington,Year ending Dec 2016,Median,650000
+E05000370,Clerkenwell,Islington,Year ending Dec 2016,Median,737500
+E05000371,Finsbury Park,Islington,Year ending Dec 2016,Median,478250
+E05000372,Highbury East,Islington,Year ending Dec 2016,Median,624000
+E05000373,Highbury West,Islington,Year ending Dec 2016,Median,575000
+E05000374,Hillrise,Islington,Year ending Dec 2016,Median,512500
+E05000375,Holloway,Islington,Year ending Dec 2016,Median,499950
+E05000376,Junction,Islington,Year ending Dec 2016,Median,509998
+E05000377,Mildmay,Islington,Year ending Dec 2016,Median,530000
+E05000378,St George's,Islington,Year ending Dec 2016,Median,540000
+E05000379,St Mary's,Islington,Year ending Dec 2016,Median,742000
+E05000380,St Peter's,Islington,Year ending Dec 2016,Median,755000
+E05000381,Tollington,Islington,Year ending Dec 2016,Median,506000
+E05009388,Abingdon,Kensington and Chelsea,Year ending Dec 2016,Median,1450000
+E05009389,Brompton and Hans Town,Kensington and Chelsea,Year ending Dec 2016,Median,1825000
+E05009390,Campden,Kensington and Chelsea,Year ending Dec 2016,Median,1800000
+E05009391,Chelsea Riverside,Kensington and Chelsea,Year ending Dec 2016,Median,1185000
+E05009392,Colville,Kensington and Chelsea,Year ending Dec 2016,Median,900000
+E05009393,Courtfield,Kensington and Chelsea,Year ending Dec 2016,Median,1525000
+E05009394,Dalgarno,Kensington and Chelsea,Year ending Dec 2016,Median,680000
+E05009395,Earl's Court,Kensington and Chelsea,Year ending Dec 2016,Median,812500
+E05009396,Golborne,Kensington and Chelsea,Year ending Dec 2016,Median,635000
+E05009397,Holland,Kensington and Chelsea,Year ending Dec 2016,Median,1127500
+E05009398,Norland,Kensington and Chelsea,Year ending Dec 2016,Median,2125000
+E05009399,Notting Dale,Kensington and Chelsea,Year ending Dec 2016,Median,702500
+E05009400,Pembridge,Kensington and Chelsea,Year ending Dec 2016,Median,1100000
+E05009401,Queen's Gate,Kensington and Chelsea,Year ending Dec 2016,Median,1512500
+E05009402,Redcliffe,Kensington and Chelsea,Year ending Dec 2016,Median,1035000
+E05009403,Royal Hospital,Kensington and Chelsea,Year ending Dec 2016,Median,1400000
+E05009404,St Helen's,Kensington and Chelsea,Year ending Dec 2016,Median,710000
+E05009405,Stanley,Kensington and Chelsea,Year ending Dec 2016,Median,1399250
+E05000400,Alexandra,Kingston upon Thames,Year ending Dec 2016,Median,521250
+E05000401,Berrylands,Kingston upon Thames,Year ending Dec 2016,Median,430000
+E05000402,Beverley,Kingston upon Thames,Year ending Dec 2016,Median,495000
+E05000403,Canbury,Kingston upon Thames,Year ending Dec 2016,Median,564000
+E05000404,Chessington North and Hook,Kingston upon Thames,Year ending Dec 2016,Median,380000
+E05000405,Chessington South,Kingston upon Thames,Year ending Dec 2016,Median,375000
+E05000406,Coombe Hill,Kingston upon Thames,Year ending Dec 2016,Median,610000
+E05000407,Coombe Vale,Kingston upon Thames,Year ending Dec 2016,Median,613000
+E05000408,Grove,Kingston upon Thames,Year ending Dec 2016,Median,480000
+E05000409,Norbiton,Kingston upon Thames,Year ending Dec 2016,Median,410000
+E05000410,Old Malden,Kingston upon Thames,Year ending Dec 2016,Median,525000
+E05000411,St James,Kingston upon Thames,Year ending Dec 2016,Median,537500
+E05000412,St Mark's,Kingston upon Thames,Year ending Dec 2016,Median,480000
+E05000413,Surbiton Hill,Kingston upon Thames,Year ending Dec 2016,Median,420000
+E05000414,Tolworth and Hook Rise,Kingston upon Thames,Year ending Dec 2016,Median,415000
+E05000415,Tudor,Kingston upon Thames,Year ending Dec 2016,Median,723500
+E05000416,Bishop's,Lambeth,Year ending Dec 2016,Median,625000
+E05000417,Brixton Hill,Lambeth,Year ending Dec 2016,Median,485489
+E05000418,Clapham Common,Lambeth,Year ending Dec 2016,Median,640000
+E05000419,Clapham Town,Lambeth,Year ending Dec 2016,Median,644500
+E05000420,Coldharbour,Lambeth,Year ending Dec 2016,Median,525000
+E05000421,Ferndale,Lambeth,Year ending Dec 2016,Median,539975
+E05000422,Gipsy Hill,Lambeth,Year ending Dec 2016,Median,437300
+E05000423,Herne Hill,Lambeth,Year ending Dec 2016,Median,520000
+E05000424,Knight's Hill,Lambeth,Year ending Dec 2016,Median,487500
+E05000425,Larkhall,Lambeth,Year ending Dec 2016,Median,534950
+E05000426,Oval,Lambeth,Year ending Dec 2016,Median,650000
+E05000427,Prince's,Lambeth,Year ending Dec 2016,Median,529000
+E05000428,St Leonard's,Lambeth,Year ending Dec 2016,Median,420000
+E05000429,Stockwell,Lambeth,Year ending Dec 2016,Median,452500
+E05000430,Streatham Hill,Lambeth,Year ending Dec 2016,Median,490000
+E05000431,Streatham South,Lambeth,Year ending Dec 2016,Median,465000
+E05000432,Streatham Wells,Lambeth,Year ending Dec 2016,Median,390000
+E05000433,Thornton,Lambeth,Year ending Dec 2016,Median,649950
+E05000434,Thurlow Park,Lambeth,Year ending Dec 2016,Median,517000
+E05000435,Tulse Hill,Lambeth,Year ending Dec 2016,Median,530000
+E05000436,Vassall,Lambeth,Year ending Dec 2016,Median,481000
+E05000437,Bellingham,Lewisham,Year ending Dec 2016,Median,310000
+E05000438,Blackheath,Lewisham,Year ending Dec 2016,Median,470000
+E05000439,Brockley,Lewisham,Year ending Dec 2016,Median,405000
+E05000440,Catford South,Lewisham,Year ending Dec 2016,Median,463750
+E05000441,Crofton Park,Lewisham,Year ending Dec 2016,Median,495000
+E05000442,Downham,Lewisham,Year ending Dec 2016,Median,320000
+E05000443,Evelyn,Lewisham,Year ending Dec 2016,Median,416000
+E05000444,Forest Hill,Lewisham,Year ending Dec 2016,Median,390750
+E05000445,Grove Park,Lewisham,Year ending Dec 2016,Median,340000
+E05000446,Ladywell,Lewisham,Year ending Dec 2016,Median,482500
+E05000447,Lee Green,Lewisham,Year ending Dec 2016,Median,477500
+E05000448,Lewisham Central,Lewisham,Year ending Dec 2016,Median,320000
+E05000449,New Cross,Lewisham,Year ending Dec 2016,Median,350000
+E05000450,Perry Vale,Lewisham,Year ending Dec 2016,Median,435000
+E05000451,Rushey Green,Lewisham,Year ending Dec 2016,Median,356500
+E05000452,Sydenham,Lewisham,Year ending Dec 2016,Median,404000
+E05000453,Telegraph Hill,Lewisham,Year ending Dec 2016,Median,445000
+E05000454,Whitefoot,Lewisham,Year ending Dec 2016,Median,330000
+E05000455,Abbey,Merton,Year ending Dec 2016,Median,585000
+E05000456,Cannon Hill,Merton,Year ending Dec 2016,Median,500000
+E05000457,Colliers Wood,Merton,Year ending Dec 2016,Median,413500
+E05000458,Cricket Green,Merton,Year ending Dec 2016,Median,301000
+E05000459,Dundonald,Merton,Year ending Dec 2016,Median,625000
+E05000460,Figge's Marsh,Merton,Year ending Dec 2016,Median,287000
+E05000461,Graveney,Merton,Year ending Dec 2016,Median,482000
+E05000462,Hillside,Merton,Year ending Dec 2016,Median,645000
+E05000463,Lavender Fields,Merton,Year ending Dec 2016,Median,344000
+E05000464,Longthornton,Merton,Year ending Dec 2016,Median,400000
+E05000465,Lower Morden,Merton,Year ending Dec 2016,Median,409500
+E05000466,Merton Park,Merton,Year ending Dec 2016,Median,517475
+E05000467,Pollards Hill,Merton,Year ending Dec 2016,Median,350000
+E05000468,Ravensbury,Merton,Year ending Dec 2016,Median,350000
+E05000469,Raynes Park,Merton,Year ending Dec 2016,Median,590500
+E05000470,St Helier,Merton,Year ending Dec 2016,Median,365500
+E05000471,Trinity,Merton,Year ending Dec 2016,Median,578440
+E05000472,Village,Merton,Year ending Dec 2016,Median,1590000
+E05000473,West Barnes,Merton,Year ending Dec 2016,Median,522000
+E05000474,Wimbledon Park,Merton,Year ending Dec 2016,Median,822500
+E05000475,Beckton,Newham,Year ending Dec 2016,Median,297600
+E05000476,Boleyn,Newham,Year ending Dec 2016,Median,358250
+E05000477,Canning Town North,Newham,Year ending Dec 2016,Median,339000
+E05000478,Canning Town South,Newham,Year ending Dec 2016,Median,390000
+E05000479,Custom House,Newham,Year ending Dec 2016,Median,340000
+E05000480,East Ham Central,Newham,Year ending Dec 2016,Median,323500
+E05000481,East Ham North,Newham,Year ending Dec 2016,Median,360000
+E05000482,East Ham South,Newham,Year ending Dec 2016,Median,315000
+E05000483,Forest Gate North,Newham,Year ending Dec 2016,Median,385000
+E05000484,Forest Gate South,Newham,Year ending Dec 2016,Median,395000
+E05000485,Green Street East,Newham,Year ending Dec 2016,Median,350000
+E05000486,Green Street West,Newham,Year ending Dec 2016,Median,363000
+E05000487,Little Ilford,Newham,Year ending Dec 2016,Median,285000
+E05000488,Manor Park,Newham,Year ending Dec 2016,Median,325000
+E05000489,Plaistow North,Newham,Year ending Dec 2016,Median,325000
+E05000490,Plaistow South,Newham,Year ending Dec 2016,Median,337000
+E05000491,Royal Docks,Newham,Year ending Dec 2016,Median,417000
+E05000492,Stratford and New Town,Newham,Year ending Dec 2016,Median,391475
+E05000493,Wall End,Newham,Year ending Dec 2016,Median,350000
+E05000494,West Ham,Newham,Year ending Dec 2016,Median,350000
+E05000495,Aldborough,Redbridge,Year ending Dec 2016,Median,380000
+E05000496,Barkingside,Redbridge,Year ending Dec 2016,Median,472500
+E05000497,Bridge,Redbridge,Year ending Dec 2016,Median,430500
+E05000498,Chadwell,Redbridge,Year ending Dec 2016,Median,340250
+E05000499,Church End,Redbridge,Year ending Dec 2016,Median,435900
+E05000500,Clayhall,Redbridge,Year ending Dec 2016,Median,510000
+E05000501,Clementswood,Redbridge,Year ending Dec 2016,Median,300000
+E05000502,Cranbrook,Redbridge,Year ending Dec 2016,Median,359000
+E05000503,Fairlop,Redbridge,Year ending Dec 2016,Median,397500
+E05000504,Fullwell,Redbridge,Year ending Dec 2016,Median,435000
+E05000505,Goodmayes,Redbridge,Year ending Dec 2016,Median,332500
+E05000506,Hainault,Redbridge,Year ending Dec 2016,Median,333000
+E05000507,Loxford,Redbridge,Year ending Dec 2016,Median,324000
+E05000508,Mayfield,Redbridge,Year ending Dec 2016,Median,425000
+E05000509,Monkhams,Redbridge,Year ending Dec 2016,Median,525000
+E05000510,Newbury,Redbridge,Year ending Dec 2016,Median,368000
+E05000511,Roding,Redbridge,Year ending Dec 2016,Median,459950
+E05000512,Seven Kings,Redbridge,Year ending Dec 2016,Median,380000
+E05000513,Snaresbrook,Redbridge,Year ending Dec 2016,Median,450000
+E05000514,Valentines,Redbridge,Year ending Dec 2016,Median,296000
+E05000515,Wanstead,Redbridge,Year ending Dec 2016,Median,606000
+E05000516,Barnes,Richmond upon Thames,Year ending Dec 2016,Median,1470000
+E05000517,East Sheen,Richmond upon Thames,Year ending Dec 2016,Median,1042000
+E05000518,Fulwell and Hampton Hill,Richmond upon Thames,Year ending Dec 2016,Median,595000
+E05000519,"Ham, Petersham and Richmond Rive",Richmond upon Thames,Year ending Dec 2016,Median,577500
+E05000520,Hampton,Richmond upon Thames,Year ending Dec 2016,Median,539950
+E05000521,Hampton North,Richmond upon Thames,Year ending Dec 2016,Median,405000
+E05000522,Hampton Wick,Richmond upon Thames,Year ending Dec 2016,Median,622500
+E05000523,Heathfield,Richmond upon Thames,Year ending Dec 2016,Median,467000
+E05000524,Kew,Richmond upon Thames,Year ending Dec 2016,Median,715000
+E05000525,Mortlake and Barnes Common,Richmond upon Thames,Year ending Dec 2016,Median,780000
+E05000526,North Richmond,Richmond upon Thames,Year ending Dec 2016,Median,610000
+E05000527,St Margarets and North Twickenha,Richmond upon Thames,Year ending Dec 2016,Median,620000
+E05000528,South Richmond,Richmond upon Thames,Year ending Dec 2016,Median,662500
+E05000529,South Twickenham,Richmond upon Thames,Year ending Dec 2016,Median,666500
+E05000530,Teddington,Richmond upon Thames,Year ending Dec 2016,Median,667500
+E05000531,Twickenham Riverside,Richmond upon Thames,Year ending Dec 2016,Median,500000
+E05000532,West Twickenham,Richmond upon Thames,Year ending Dec 2016,Median,545000
+E05000533,Whitton,Richmond upon Thames,Year ending Dec 2016,Median,491250
+E05000534,Brunswick Park,Southwark,Year ending Dec 2016,Median,460000
+E05000535,Camberwell Green,Southwark,Year ending Dec 2016,Median,455000
+E05000536,Cathedrals,Southwark,Year ending Dec 2016,Median,585000
+E05000537,Chaucer,Southwark,Year ending Dec 2016,Median,499999
+E05000538,College,Southwark,Year ending Dec 2016,Median,415000
+E05000539,East Dulwich,Southwark,Year ending Dec 2016,Median,630000
+E05000540,East Walworth,Southwark,Year ending Dec 2016,Median,517500
+E05000541,Faraday,Southwark,Year ending Dec 2016,Median,490000
+E05000542,Grange,Southwark,Year ending Dec 2016,Median,540000
+E05000543,Livesey,Southwark,Year ending Dec 2016,Median,407500
+E05000544,Newington,Southwark,Year ending Dec 2016,Median,465000
+E05000545,Nunhead,Southwark,Year ending Dec 2016,Median,445000
+E05000546,Peckham,Southwark,Year ending Dec 2016,Median,347500
+E05000547,Peckham Rye,Southwark,Year ending Dec 2016,Median,481000
+E05000548,Riverside,Southwark,Year ending Dec 2016,Median,914000
+E05000549,Rotherhithe,Southwark,Year ending Dec 2016,Median,480000
+E05000550,South Bermondsey,Southwark,Year ending Dec 2016,Median,385000
+E05000551,South Camberwell,Southwark,Year ending Dec 2016,Median,500000
+E05000552,Surrey Docks,Southwark,Year ending Dec 2016,Median,480000
+E05000553,The Lane,Southwark,Year ending Dec 2016,Median,490000
+E05000554,Village,Southwark,Year ending Dec 2016,Median,865000
+E05000555,Beddington North,Sutton,Year ending Dec 2016,Median,365500
+E05000556,Beddington South,Sutton,Year ending Dec 2016,Median,265000
+E05000557,Belmont,Sutton,Year ending Dec 2016,Median,342000
+E05000558,Carshalton Central,Sutton,Year ending Dec 2016,Median,421000
+E05000559,Carshalton South and Clockhouse,Sutton,Year ending Dec 2016,Median,390000
+E05000560,Cheam,Sutton,Year ending Dec 2016,Median,492500
+E05000561,Nonsuch,Sutton,Year ending Dec 2016,Median,476000
+E05000562,St Helier,Sutton,Year ending Dec 2016,Median,333500
+E05000563,Stonecot,Sutton,Year ending Dec 2016,Median,430000
+E05000564,Sutton Central,Sutton,Year ending Dec 2016,Median,306000
+E05000565,Sutton North,Sutton,Year ending Dec 2016,Median,370000
+E05000566,Sutton South,Sutton,Year ending Dec 2016,Median,322250
+E05000567,Sutton West,Sutton,Year ending Dec 2016,Median,339000
+E05000568,The Wrythe,Sutton,Year ending Dec 2016,Median,354000
+E05000569,Wallington North,Sutton,Year ending Dec 2016,Median,338500
+E05000570,Wallington South,Sutton,Year ending Dec 2016,Median,294500
+E05000571,Wandle Valley,Sutton,Year ending Dec 2016,Median,315000
+E05000572,Worcester Park,Sutton,Year ending Dec 2016,Median,340000
+E05009317,Bethnal Green,Tower Hamlets,Year ending Dec 2016,Median,485000
+E05009318,Blackwall and Cubitt Town,Tower Hamlets,Year ending Dec 2016,Median,497550
+E05009319,Bow East,Tower Hamlets,Year ending Dec 2016,Median,430000
+E05009320,Bow West,Tower Hamlets,Year ending Dec 2016,Median,570000
+E05009321,Bromley North,Tower Hamlets,Year ending Dec 2016,Median,373510
+E05009322,Bromley South,Tower Hamlets,Year ending Dec 2016,Median,371469
+E05009323,Canary Wharf,Tower Hamlets,Year ending Dec 2016,Median,475000
+E05009324,Island Gardens,Tower Hamlets,Year ending Dec 2016,Median,450000
+E05009325,Lansbury,Tower Hamlets,Year ending Dec 2016,Median,379985
+E05009326,Limehouse,Tower Hamlets,Year ending Dec 2016,Median,500000
+E05009327,Mile End,Tower Hamlets,Year ending Dec 2016,Median,420000
+E05009328,Poplar,Tower Hamlets,Year ending Dec 2016,Median,342500
+E05009329,St Dunstan's,Tower Hamlets,Year ending Dec 2016,Median,420000
+E05009330,St Katharine's and Wapping,Tower Hamlets,Year ending Dec 2016,Median,585000
+E05009331,St Peter's,Tower Hamlets,Year ending Dec 2016,Median,410000
+E05009332,Shadwell,Tower Hamlets,Year ending Dec 2016,Median,650000
+E05009333,Spitalfields and Banglatown,Tower Hamlets,Year ending Dec 2016,Median,483500
+E05009334,Stepney Green,Tower Hamlets,Year ending Dec 2016,Median,383750
+E05009335,Weavers,Tower Hamlets,Year ending Dec 2016,Median,570000
+E05009336,Whitechapel,Tower Hamlets,Year ending Dec 2016,Median,675000
+E05000590,Cann Hall,Waltham Forest,Year ending Dec 2016,Median,446000
+E05000591,Cathall,Waltham Forest,Year ending Dec 2016,Median,431999
+E05000592,Chapel End,Waltham Forest,Year ending Dec 2016,Median,443600
+E05000593,Chingford Green,Waltham Forest,Year ending Dec 2016,Median,390000
+E05000594,Endlebury,Waltham Forest,Year ending Dec 2016,Median,460000
+E05000595,Forest,Waltham Forest,Year ending Dec 2016,Median,456500
+E05000596,Grove Green,Waltham Forest,Year ending Dec 2016,Median,403995
+E05000597,Hale End and Highams Park,Waltham Forest,Year ending Dec 2016,Median,488000
+E05000598,Hatch Lane,Waltham Forest,Year ending Dec 2016,Median,380500
+E05000599,High Street,Waltham Forest,Year ending Dec 2016,Median,425250
+E05000600,Higham Hill,Waltham Forest,Year ending Dec 2016,Median,422550
+E05000601,Hoe Street,Waltham Forest,Year ending Dec 2016,Median,419000
+E05000602,Larkswood,Waltham Forest,Year ending Dec 2016,Median,406000
+E05000603,Lea Bridge,Waltham Forest,Year ending Dec 2016,Median,380000
+E05000604,Leyton,Waltham Forest,Year ending Dec 2016,Median,423250
+E05000605,Leytonstone,Waltham Forest,Year ending Dec 2016,Median,385000
+E05000606,Markhouse,Waltham Forest,Year ending Dec 2016,Median,480000
+E05000607,Valley,Waltham Forest,Year ending Dec 2016,Median,379500
+E05000608,William Morris,Waltham Forest,Year ending Dec 2016,Median,435000
+E05000609,Wood Street,Waltham Forest,Year ending Dec 2016,Median,396000
+E05000610,Balham,Wandsworth,Year ending Dec 2016,Median,699567
+E05000611,Bedford,Wandsworth,Year ending Dec 2016,Median,550000
+E05000612,Earlsfield,Wandsworth,Year ending Dec 2016,Median,555000
+E05000613,East Putney,Wandsworth,Year ending Dec 2016,Median,637000
+E05000614,Fairfield,Wandsworth,Year ending Dec 2016,Median,595000
+E05000615,Furzedown,Wandsworth,Year ending Dec 2016,Median,465000
+E05000616,Graveney,Wandsworth,Year ending Dec 2016,Median,527500
+E05000617,Latchmere,Wandsworth,Year ending Dec 2016,Median,485000
+E05000618,Nightingale,Wandsworth,Year ending Dec 2016,Median,635000
+E05000619,Northcote,Wandsworth,Year ending Dec 2016,Median,765000
+E05000620,Queenstown,Wandsworth,Year ending Dec 2016,Median,823650
+E05000621,Roehampton and Putney Heath,Wandsworth,Year ending Dec 2016,Median,351900
+E05000622,St Mary's Park,Wandsworth,Year ending Dec 2016,Median,740000
+E05000623,Shaftesbury,Wandsworth,Year ending Dec 2016,Median,830750
+E05000624,Southfields,Wandsworth,Year ending Dec 2016,Median,635000
+E05000625,Thamesfield,Wandsworth,Year ending Dec 2016,Median,750000
+E05000626,Tooting,Wandsworth,Year ending Dec 2016,Median,607500
+E05000627,Wandsworth Common,Wandsworth,Year ending Dec 2016,Median,675000
+E05000628,West Hill,Wandsworth,Year ending Dec 2016,Median,410000
+E05000629,West Putney,Wandsworth,Year ending Dec 2016,Median,599999
+E05000630,Abbey Road,Westminster,Year ending Dec 2016,Median,1056500
+E05000631,Bayswater,Westminster,Year ending Dec 2016,Median,780000
+E05000632,Bryanston and Dorset Square,Westminster,Year ending Dec 2016,Median,1035000
+E05000633,Churchill,Westminster,Year ending Dec 2016,Median,845000
+E05000634,Church Street,Westminster,Year ending Dec 2016,Median,510000
+E05000635,Harrow Road,Westminster,Year ending Dec 2016,Median,550000
+E05000636,Hyde Park,Westminster,Year ending Dec 2016,Median,956980
+E05000637,Knightsbridge and Belgravia,Westminster,Year ending Dec 2016,Median,2700000
+E05000638,Lancaster Gate,Westminster,Year ending Dec 2016,Median,924000
+E05000639,Little Venice,Westminster,Year ending Dec 2016,Median,1007500
+E05000640,Maida Vale,Westminster,Year ending Dec 2016,Median,805000
+E05000641,Marylebone High Street,Westminster,Year ending Dec 2016,Median,1881000
+E05000642,Queen's Park,Westminster,Year ending Dec 2016,Median,675000
+E05000643,Regent's Park,Westminster,Year ending Dec 2016,Median,950000
+E05000644,St James's,Westminster,Year ending Dec 2016,Median,1133500
+E05000645,Tachbrook,Westminster,Year ending Dec 2016,Median,765000
+E05000646,Vincent Square,Westminster,Year ending Dec 2016,Median,1700000
+E05000647,Warwick,Westminster,Year ending Dec 2016,Median,850000
+E05000648,Westbourne,Westminster,Year ending Dec 2016,Median,648000
+E05000649,West End,Westminster,Year ending Dec 2016,Median,1677000
